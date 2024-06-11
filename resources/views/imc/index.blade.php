@@ -1,5 +1,5 @@
-<x-layout>
+<x-layout title="imc">
 
-    <h1 title="imc">TESTE</h1>
+    <h1>TESTE</h1>
 
 </x-layout>
