@@ -1,4 +1,23 @@
-h1 {
-    font-size: 45px !important;
+body {
     color: red !important;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario {
+    width:360px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border: 5%;
+    border-color: aqua;
+    border-radius: 10%;
+    box-shadow: 2px 2px 2x rgba(0, 0, 0, 0.562);
 }
